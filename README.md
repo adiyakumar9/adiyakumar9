@@ -19,7 +19,6 @@ const aditya = {
   name: "Aditya Kumar",
   location: "Lucknow, India",
   role: "Full-Stack Developer",
-  work: "Free-Lancing",
   portfolio: "https://aditya-portfolio-9504.netlify.app/",
   passions: ["Clean Code", "Scalable Systems", "Open Source"],
   currentlyLearning: ["System Design", "DevOps", "Cloud Architecture"],
