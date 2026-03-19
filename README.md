@@ -120,10 +120,25 @@ const aditya: Developer = {
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adiyakumar9&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+
+![Achievement](https://img.shields.io/badge/🦈_YOLO-Merged_without_review-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/🪐_Galaxy_Brain-Mind_blowing_idea-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/❤️_Open_Sourcerer-Contributes_to_OSS-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Achievement](https://img.shields.io/badge/🌟_Starstruck-Projects_with_stars-7c3aed?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adiyakumar9/adiyakumar9/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adiyakumar9/adiyakumar9/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/adiyakumar9/adiyakumar9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
